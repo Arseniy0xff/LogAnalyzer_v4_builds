@@ -2,6 +2,6 @@
     "version": "0.9.0",
     "critical_update": 0,
     "user_data_path": ["user_data/"],
-    "run_file": "LogAnalyzer_v4_test.py",
+    "run_file": "LogAnalyzer_v4_test/LogAnalyzer_v4_test.py",
     "update_notes_file": "update.html"
 }

@@ -1,2 +1,5 @@
 print("hallo!")
+f = open('user_data/test_data.txt')
+print(f.read())
+f.close()
 input()
