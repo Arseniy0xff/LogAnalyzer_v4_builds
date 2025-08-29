@@ -4,5 +4,5 @@
     "user_data_path": ["user_data/"],
     "run_file": "LogAnalyzer_v4_test.py",
     "update_notes_file": "update.html",
-    "build_name": "test123.zip"
+    "build_name": "LogAnalyzer_v4_test.zip"
 }
