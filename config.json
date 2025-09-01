@@ -1,10 +1,10 @@
 {
     "repo_owner": "Arseniy0xff",
     "repo_name": "LogAnalyzer_v4_builds",
-    "version": "1.0.0a",
+    "version": "4.0.1a",
     "critical_update": 0,
     "user_data_path": ["user_data/"],
-    "run_file": "LogAnalyzer_v4.py",
+    "run_file": "LogAnalyzer_v4.exe",
     "update_notes_file": "index.html",
     "build_name": "LogAnalyzer_v4_alfa.zip"
 }
